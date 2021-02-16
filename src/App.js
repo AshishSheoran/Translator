@@ -1,5 +1,5 @@
 import React, {userState, useState } from 'react';
-import './App.css';
+import './index.css';
 import Field from './components/field';
 import Languages from './components/languages';
 import Translate from './components/translate';
