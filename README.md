@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Translator
-Here is the working link for the application.
+Here is the working link for the application. Enjoy translation!!
 https://codesandbox.io/s/react-jg4cq?file=/src/App.js
